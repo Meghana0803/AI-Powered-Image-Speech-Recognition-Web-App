@@ -1,0 +1,27 @@
+# Core Dependencies
+gradio
+fastapi
+uvicorn
+
+# Machine Learning & AI
+tensorflow
+torch
+ultralytics
+
+# Image Processing
+numpy
+pillow
+opencv-python-headless
+matplotlib
+seaborn
+
+# Database
+psycopg2
+
+# Speech Recognition
+speechrecognition
+
+# Other Utilities
+python-dotenv
+
+duckduckgo-search==0.4
